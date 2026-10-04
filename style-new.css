@@ -544,12 +544,7 @@ height:100vh;
 .door{
 width:50%;
 }
- .open .left{
-transform:translateX(140%);
-}
-.open .right{
-transform:translateX(-140%);
-}
+ 
  #doors{
 transform:scale(.75);
 transform-origin:center center;
