@@ -545,7 +545,7 @@ height:100vh;
 width:50%;
 }
  #doors{
-transform:scale(.85);
+transform:scale(.75);
 transform-origin:center center;
 }
 .flowers-left,
