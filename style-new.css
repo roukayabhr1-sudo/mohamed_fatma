@@ -543,6 +543,7 @@ height:100vh;
 }
 .door{
 width:50%;
+ overflow:visible;
 }
  .open .left{
 transform:translateX(140%);
