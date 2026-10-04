@@ -593,8 +593,11 @@ gap:6px;
 }
  .mariée{
 height:70%;
+width:auto;
 }
 .marié{
 height:85%;
+width:auto;
+}
 }
 }
