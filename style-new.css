@@ -544,6 +544,10 @@ height:100vh;
 .door{
 width:50%;
 }
+ #doors{
+transform:scale(.85);
+transform-origin:center center;
+}
 .flowers-left,
 .flowers-right{
 width:180px;
