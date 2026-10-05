@@ -594,13 +594,12 @@ height:85%;
 width:auto;
 }
  .mariée{
-transform:translateX(50%);
+transform:none;
 }
 .marié{
-transform:translateX(-50%);
+transform:none;
 }
  .open.door{
 overflow:visible;
-}
 }
 }
