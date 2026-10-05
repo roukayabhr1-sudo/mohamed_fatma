@@ -599,5 +599,8 @@ transform:translateX(50%);
 .marié{
 transform:translateX(-50%);
 }
+ .open.door{
+overflow:visible;
+}
 }
 }
