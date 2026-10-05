@@ -585,13 +585,15 @@ font-size:18px;
 font-size:24px;
 gap:6px;
 }
- .mariée{
+.mariée{
 height:140%;
 width:auto;
+left:80px;
 }
 .marié{
 height:85%;
 width:auto;
+right:80px;
 }
  .mariée{
 transform:none;
