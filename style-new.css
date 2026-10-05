@@ -594,10 +594,10 @@ height:85%;
 width:auto;
 }
  .mariée{
-transform:translateX(70%);
+transform:translateX(50%);
 }
 .marié{
-transform:translateX(-70%);
+transform:translateX(-50%);
 }
 }
 }
