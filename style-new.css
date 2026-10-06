@@ -588,18 +588,14 @@ gap:6px;
 .mariée{
 height:70%;
 width:auto;
-left:160px;
+left:50%;
+transform:translateX(-50%);
 }
 .marié{
 height:70%;
 width:auto;
-right:160px;
-}
- .mariée{
-transform:none;
-}
-.marié{
-transform:none;
+right:50%;
+transform:translateX(50%);
 }
  .open.door{
 overflow:visible;
