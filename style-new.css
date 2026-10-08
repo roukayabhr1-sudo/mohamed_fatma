@@ -546,7 +546,7 @@ width:50%;
 }
  #doors{
 transform:scale(.75);
-transform-origin:center center;
+transform-origin:top center;
 }
 .flowers-left,
 .flowers-right{
