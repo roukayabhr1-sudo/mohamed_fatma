@@ -586,13 +586,13 @@ font-size:24px;
 gap:6px;
 }
 .mariée{
-height:70%;
+height:55%;
 width:auto;
 left:100%;
 transform:translateX(-100%);
 }
 .marié{
-height:70%;
+height:55%;
 width:auto;
 right:100%;
 transform:translateX(100%);
