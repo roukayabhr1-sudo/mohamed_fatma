@@ -586,16 +586,18 @@ font-size:24px;
 gap:6px;
 }
 .mariée{
-height:55%;
+height:88%;
 width:auto;
-left:100%;
-transform:translateX(-100%);
+left:50px;
+bottom:10px;
+transform:none;
 }
 .marié{
-height:55%;
+height:105%;
 width:auto;
-right:100%;
-transform:translateX(100%);
+right:25px;
+bottom:0;
+transform:none;
 }
 .open .door{
 overflow:visible;
