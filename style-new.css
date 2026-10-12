@@ -586,14 +586,14 @@ font-size:24px;
 gap:6px;
 }
 .bride{
-height:70%;
+height:45%;
 width:auto;
 left:10px;
 bottom:10px;
 transform:none;
 }
 .groom{
-height:70%;
+height:-45%;
 width:auto;
 right:10px;
 bottom:0;
