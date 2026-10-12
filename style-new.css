@@ -599,6 +599,12 @@ right:25px;
 bottom:0;
 transform:none;
 }
+ .open .left{
+transform:translateX(100%);
+}
+.open .right{
+transform:translateX(-100%);
+}
 .open .door{
 overflow:visible;
 }
